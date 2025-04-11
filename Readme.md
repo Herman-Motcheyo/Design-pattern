@@ -8,14 +8,14 @@ Ce projet présente trois des **design patterns comportementaux et de création*
 
 ---
 
-## 1️⃣ Factroy Pattern 
+## 1 - Factroy Pattern 
 
 * Link https://github.com/Herman-Motcheyo/Design-pattern/tree/main/Factory
 
-## 1️⃣ Strategy Pattern 
+## 2 - Strategy Pattern 
 
 * Link https://github.com/Herman-Motcheyo/Design-pattern/tree/main/Strategy
 
-## 1️⃣ Template Pattern 
+## 2 - Template Pattern 
 
 * Link https://github.com/Herman-Motcheyo/Design-pattern/tree/main/Template
