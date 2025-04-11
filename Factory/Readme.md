@@ -4,7 +4,7 @@ Le **Design Pattern Factory** est un modèle de création puissant en programmat
 
 ---
 
-## 🧠 Pourquoi utiliser le Factory Pattern ?
+##  Pourquoi utiliser le Factory Pattern ?
 
 -  **Délégation de la création d’objets**  
   Au lieu de créer directement des instances de classes, on utilise une *factory* pour produire les objets souhaités.
