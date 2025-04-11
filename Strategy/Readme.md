@@ -4,6 +4,8 @@ Le design pattern Strategy (ou patron de conception Stratégie) est **un modèle
 
 ---- 
 
+![alt text](../Img/Strategy_Pattern_in_UML.png)
+
 ## Principes du design pattern Strategy
 Encapsulation des algorithmes : Les différentes variantes d’un comportement ou d’un algorithme sont isolées dans des classes séparées, ce qui permet de les gérer indépendamment.
 
