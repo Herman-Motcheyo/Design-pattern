@@ -1,0 +1,21 @@
+#  Design Patterns en Python
+
+Ce projet présente trois des **design patterns comportementaux et de création** les plus utilisés dans le développement de logiciels modulaires, évolutifs et maintenables, notamment dans les contextes **Data Science**, **MLOps**, et **systèmes intelligents** :
+
+-  **Strategy Pattern**
+-  **Template Method Pattern**
+-  **Factory Pattern**
+
+---
+
+## 1️⃣ Factroy Pattern 
+
+* Link https://github.com/Herman-Motcheyo/Design-pattern/tree/main/Factory
+
+## 1️⃣ Strategy Pattern 
+
+* Link https://github.com/Herman-Motcheyo/Design-pattern/tree/main/Strategy
+
+## 1️⃣ Template Pattern 
+
+* Link https://github.com/Herman-Motcheyo/Design-pattern/tree/main/Template
