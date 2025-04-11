@@ -68,3 +68,9 @@ Cela apporte :
 * Testabilité : on peut tester la factory séparément.
 
 * Extensibilité : on peut ajouter de nouvelles formes sans toucher au code existant.
+
+## Cas d'utilisation
+
+- Création dynamique de modèles ML (Model Factory)
+- Loader de dataset selon la source (local, S3, HuggingFace, etc.)
+- Déploiement ou inférence dynamique
